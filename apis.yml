@@ -62,6 +62,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/beatport-domain-security.yml
   - type: Website
     url: https://www.beatport.com
   - type: About
